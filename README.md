@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Text-based Adventure Game](https://github.com/AbsoluteRivers/repo1URL)
+  - [Text-based Adventure Game](https://github.com/AbsoluteRivers/TextBasedAdventureGame)
   - [Palindrome Checker](https://github.com/AbsoluteRivers/repo1URL)
 
 
