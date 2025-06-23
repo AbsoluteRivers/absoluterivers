@@ -1,4 +1,4 @@
-<h1>Hey There, I'm Ren!
+<h1>Hey There, I'm Ren!</h1>
 
 ```This is my GitHub page where I post some of the projects I've done```
 
