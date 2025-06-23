@@ -1,5 +1,7 @@
 <h1>Hey There, I'm Ren!
 
+```This is my GitHub page where I post some of the projects I've done```
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Text-based Adventure Game](https://github.com/AbsoluteRivers/TextBasedAdventureGame)
